@@ -1,6 +1,6 @@
 <?php 
 
-    // Looping with Increment using a Function
+    //Task:1 Looping with Increment using a Function
     function isEvenNumber($start,$end,$step){
         if($start % 2 !=0){
             $start++;
